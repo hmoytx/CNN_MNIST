@@ -1,6 +1,8 @@
 # 项目简介
 之前入了机器学习的坑，无奈限于数学基本功，只能退而求其次学了tensorflow，因此写了一个基于tensorflow的利用CNN的MNIST手写数字识别的脚本，网上应该都有差不多类似的，毕竟很经典的例子，这里只是为了熟悉tensorflow重新写了一下。
 
+
+  
 # 运行环境
 python3.6.4 windows10 (可选择anaconda)
 
